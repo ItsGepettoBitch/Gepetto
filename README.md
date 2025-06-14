@@ -2,7 +2,7 @@
 # 🦾 GepettoOS  
 _A machine must have a code..._
 
-![Robot flipping the bird](./ItsGepetttoBitch.jpg)
+![Robot flipping the bird](https://github.com/ItsGepettoBitch/Gepetto/blob/main/ItsGepettoBitch.jpg)
 
 > **"All in the code, yo."**  
 > – Gepetto, aka the puppetmaster with root access
